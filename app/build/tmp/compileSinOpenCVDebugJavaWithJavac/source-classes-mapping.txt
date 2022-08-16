@@ -1,0 +1,12 @@
+com/ojas/edgedetectator/MainActivity.java
+ com.ojas.edgedetectator.MainActivity
+ com.ojas.edgedetectator.MainActivity$1
+ com.ojas.edgedetectator.MainActivity$2
+ com.ojas.edgedetectator.MainActivity$3
+ com.ojas.edgedetectator.MainActivity$3$1
+ com.ojas.edgedetectator.MainActivity$3$2
+ com.ojas.edgedetectator.MainActivity$4
+ com.ojas.edgedetectator.MainActivity$4$1
+ com.ojas.edgedetectator.MainActivity$4$2
+com/ojas/edgedetectator/BuildConfig.java
+ com.ojas.edgedetectator.BuildConfig

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716795113968",
+    "project_id": "edgedectator",
+    "storage_bucket": "edgedectator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716795113968:android:2e242a1a1eb1fe84cded35",
+        "android_client_info": {
+          "package_name": "com.ojas.edgedectator.sinopencv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716795113968-n079uq23ca9ou2dum0c4n9t1fafn5rtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ixlCFutdoFz-U4G6LdwItucLGXPnP04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716795113968-n079uq23ca9ou2dum0c4n9t1fafn5rtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

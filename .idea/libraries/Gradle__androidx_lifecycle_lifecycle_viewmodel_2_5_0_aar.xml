@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.5.0@aar">
+    <CLASSES>
+      <root url="file://C:/Program Files/Java/jdk-17.0.1/caches/transforms-2/files-2.1/3eb92993b8a95d0acccd58f9ece3663a/lifecycle-viewmodel-2.5.0/res" />
+      <root url="file://C:/Program Files/Java/jdk-17.0.1/caches/transforms-2/files-2.1/3eb92993b8a95d0acccd58f9ece3663a/lifecycle-viewmodel-2.5.0/AndroidManifest.xml" />
+      <root url="jar://C:/Program Files/Java/jdk-17.0.1/caches/transforms-2/files-2.1/3eb92993b8a95d0acccd58f9ece3663a/lifecycle-viewmodel-2.5.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/jdk-17.0.1/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.5.0/e4f5125d80cf6fd0822a581848be527086ca32f1/lifecycle-viewmodel-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

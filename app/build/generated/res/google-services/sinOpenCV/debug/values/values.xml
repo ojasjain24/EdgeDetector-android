@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">716795113968-n079uq23ca9ou2dum0c4n9t1fafn5rtl.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">716795113968</string>
+    <string name="google_api_key" translatable="false">AIzaSyB_ixlCFutdoFz-U4G6LdwItucLGXPnP04</string>
+    <string name="google_app_id" translatable="false">1:716795113968:android:2e242a1a1eb1fe84cded35</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB_ixlCFutdoFz-U4G6LdwItucLGXPnP04</string>
+    <string name="google_storage_bucket" translatable="false">edgedectator.appspot.com</string>
+    <string name="project_id" translatable="false">edgedectator</string>
+</resources>
